@@ -16,3 +16,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```javascript
 var myVar = “Hello, world!”;
 ```
+
+###### Step4
+- [ ] GitHub Pagesを有効にする
+- [ ] ポートフォリオのアウトラインを作成する
+- [ ] 自己紹介をする
